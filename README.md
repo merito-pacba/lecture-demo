@@ -10,7 +10,7 @@ This is simple Flask application to demonstrate framework features
    git clone https://github.com/merito-pacba/lecture-demo.git
    cd lecture-demo
    ```
-1. Install Python virtual environment: `python3 -m venv .venv
+1. Install Python virtual environment: `python3 -m venv .venv`
 1. Activate Python virtual envionrment (eg. `.venv\Scripts\Activate.ps1` on Windows PowerShell or `source .venv\bin\activate` in Linux/Mac)
 1. Run command:
    ```sh
